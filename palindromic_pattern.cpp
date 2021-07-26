@@ -9,15 +9,15 @@ int main() {
   for (int i=1; i<=row; i++) {
       int j;
       for (j = 1; j<=row-i; j++) {
-        cout<<" ";
+        cout<<"  ";
       }
       int k = i;
       for (; j<=row; j++) {
-          cout<<k--;
+          cout<<k--<<" ";
       }
       k = 2;
       for (; j<= row+i-1; j++) {
-          cout<<k++;
+          cout<<k++<<" ";
       }
       cout<<endl;
   }
