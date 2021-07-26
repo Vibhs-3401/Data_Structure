@@ -1,2 +1,2 @@
 # Data_Structure
-all code which i learnt from a course of data structure
+all code which I'm learning from a course named C++ full course | data structure and algorithms.
