@@ -1,2 +1,3 @@
 # Data_Structure
-all code which I'm learning from a course named C++ full course | data structure and algorithms.
+Here code are given for all type of patterns.
+Technical language used is C++.
